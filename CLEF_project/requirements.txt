@@ -1,0 +1,9 @@
+# Các phiên bản đã được kiểm tra hoạt động tốt với pipeline này.
+# Cài trong virtual environment riêng để tránh xung đột với các package khác trên máy.
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8
+shap==0.52.0
+lime==0.2.0.1
+tensorflow-cpu==2.21.0
