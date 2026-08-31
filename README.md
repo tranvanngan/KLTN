@@ -1,7 +1,5 @@
 # CLEF Project - Khóa luận tốt nghiệp
-
 Dự án nghiên cứu và phát triển mã nguồn cho đề tài khóa luận tốt nghiệp của sinh viên ngành Kỹ thuật Phần mềm.
----
 ## 📂 Cấu trúc thư mục dự án
 
 ```text
@@ -54,7 +52,3 @@ Họ và tên: Trần Văn Ngân
 Ngành: Kỹ thuật Phần mềm
 Trường: Đại học Kinh tế Thành phố Hồ Chí Minh (UEH)
 ---
-
-git add README.md
-git commit -m "Add detailed README.md"
-git push origin main
